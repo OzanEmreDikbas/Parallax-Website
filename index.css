@@ -5,7 +5,7 @@ html {
     padding: 0px;
     font-size: 16px;
     font-family: 'Lato', sans-serif;
-    font-weight: 700;
+    font-weight: 400;
     line-height: 1.8em;
     color: #666;
 }
@@ -66,7 +66,7 @@ html {
     height: 100px;
 }
 
-span {
+#span {
     padding: 24px;
     color: white;
     background-color: rgba(0, 0, 0, 0.8);
@@ -92,8 +92,7 @@ span {
 
 h2 {
     align-items: center;
-    font-size: 2rem;
-    font-weight: bold;
+    font-size: 1.8rem;
 }
 
 @media screen and (max-width:900px) {
